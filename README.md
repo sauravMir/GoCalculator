@@ -1,6 +1,6 @@
 # Calculator 
 
-This is a simple calculator application that does add, multiply, substract, devide two numbers.
+これは、2つの数値を加算、乗算、減算、除算する単純な計算機アプリケーションです。
 
-Front End - Vue.Js
-BackEnd- GO
+フロントエンド - Vue.Js
+バックエンド - GO
