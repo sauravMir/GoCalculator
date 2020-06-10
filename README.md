@@ -8,25 +8,25 @@
 
 Installation
 
-Step １. 
+Step 1.
 最初にgithubのrepositoryはGoWorkSpaceにCloneをしてください 
 
-Step ２.
+Step 2.
 cd ~/GoCalculator/frontend
 
 Step 3.
 npm install
 
-Step 4
+Step 4.
 cd ~/GoCalculator/backend
 
-Step 5
+Step 5.
 go get 
 
-Step 6 (~/GoCalculator/backend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
+Step 6. (~/GoCalculator/backend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
 go run server.go
 
-Step 7　(~/GoCalculator/frontend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
+Step 7. (~/GoCalculator/frontend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
 npm run serve
 
 バックエンドとフロントエンドの同時に実行するの必要があります
