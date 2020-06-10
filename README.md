@@ -6,7 +6,7 @@
 バックエンド - GO
 
 
-フロントエンド のInstallation
+Installation
 
 Step １. 
 最初にgithubのrepositoryはGoWorkSpaceにCloneをしてください 
