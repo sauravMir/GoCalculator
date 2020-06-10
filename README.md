@@ -17,16 +17,11 @@ cd ~/GoCalculator/frontend
 Step 3.
 npm install
 
-Step 4.
-cd ~/GoCalculator/backend
 
-Step 5.
-go get 
-
-Step 6. (~/GoCalculator/backend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
+Step 4. (~/GoCalculator/backend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
 go run server.go
 
-Step 7. (~/GoCalculator/frontend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
+Step 5. (~/GoCalculator/frontend DirectoryでTerminalを開いてから以下に書いたCommandを書いてください)
 npm run serve
 
 バックエンドとフロントエンドの同時に実行するの必要があります
